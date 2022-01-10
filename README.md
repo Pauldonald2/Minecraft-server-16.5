@@ -7,7 +7,7 @@ wget http://survivalmcnew.ddns.net/server.sh
 
 then they make the file executable with
 
-sudo chmod + x server.sh
+sudo chmod +x server.sh
 
 and run it with
 
