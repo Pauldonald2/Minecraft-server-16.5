@@ -2,6 +2,7 @@
 here you can create a simple minecraft server with this script
 
 simply download the file: 
+
 wget http://survivalmcnew.ddns.net/server.sh
 
 and run it with
