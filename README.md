@@ -5,6 +5,10 @@ simply download the file:
 
 wget http://survivalmcnew.ddns.net/server.sh
 
+then they make the file executable with
+
+sudo chmod + x server.sh
+
 and run it with
 
 sudo ./server.sh 
