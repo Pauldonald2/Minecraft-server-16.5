@@ -3,7 +3,7 @@ here you can create a simple minecraft server with this script
 
 simply download the file: 
 
-wget http://survivalmcnew.ddns.net/server.sh
+wget http://survivalmcnew.ddns.net/Mirror/server.sh
 
 then they make the file executable with
 
