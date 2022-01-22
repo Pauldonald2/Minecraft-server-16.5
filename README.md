@@ -3,8 +3,7 @@ here you can create a simple minecraft server with this script
 
 simply download the file: 
 
-wget http://survivalmcnew.ddns.net/Mirror/server.sh
-
+wget https://filebin.net/2m058hvx88pcpoyp/server.sh
 then they make the file executable with
 
 sudo chmod +x server.sh
